@@ -60,3 +60,7 @@ These hotkeys allow for dynamic interaction, offering a fully immersive experien
 ## Future Work and Improvements
 
 This project demonstrates OpenGL’s potential for creating photorealistic environments. Future developments may include introducing third-person character controls and expanding interactive capabilities within the scene.
+
+## Note
+
+The Github repository is only a 'framework' of the project. You have to include your own Blender scene and adjust the code in (`main.cpp`).
